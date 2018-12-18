@@ -1,7 +1,7 @@
 ### Insturctions
 The project is to find the similarity between questions. In order to run the project follow the instructions:
 1. Download the data from https://www.kaggle.com/c/quora-question-pairs/data
-2. put 'test.csv' and 'train.csv' files in the data folder in home folder ('kxb162030_NLPproject') <br/> <br/>
+2. put 'test.csv' and 'train.csv' files in the data folder in home folder <br/> <br/>
 3. Run the command using code sheet given below: <br/>
 <br/> `python3 measure_similarity.py [Similarity feature] [classifer]`
 <br/> `For example to run cosine_similarity with SVM => python3 measure_similarity.py "ONE" "EIGHT"`
@@ -22,7 +22,7 @@ NINE = LOGISTIC_REGRESSION <br/>
 Configuration:
 1. Python3 is used.
 2. sklearn, nltk, wordnet, pandas and numpy are major packages used.
-
+<br/>
 References: <br/>
 1]  Han, Lushan and Kashyap, Abhay L and Finin, Tim and Mayfield, Jamesand  Weese,  Jonathan,  UMBC  EBIQUITY-CORE:  Semantic  TextualSimilarity Systems., NAACL-HLT, 44-52, 2013. <br/>
 [2]  Dao TN, Simpson T, Measuring similarity between sentences, WordNet.Net, Tech. Rep., 2005. <br/>
