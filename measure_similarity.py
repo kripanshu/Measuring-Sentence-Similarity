@@ -1,4 +1,4 @@
-""" Author : Kripanshu Bhargava kxb162030
+""" Author : Kripanshu Bhargava
 This is the main python file we run.
 Data : It is taken from kaggle which does not allow sharing of dataset. SO THE DATA FOLDER IS KEPT EMPTY.
 In order to run the software, download the data from the link:
