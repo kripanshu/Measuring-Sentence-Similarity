@@ -2,8 +2,8 @@ The project is to find the similarity between questions. In order to run the pro
 1. Download the data from https://www.kaggle.com/c/quora-question-pairs/data
 2. put 'test.csv' and 'train.csv' files in the data folder in home folder ('kxb162030_NLPproject')
 3. Run the command using code sheet given below:
-## python3 measure_similarity.py [Similarity feature] [classifer]
-## For example to run cosine_similarity with SVM => python3 measure_similarity.py "ONE" "EIGHT"
+# python3 measure_similarity.py [Similarity feature] [classifer]
+# For example to run cosine_similarity with SVM => python3 measure_similarity.py "ONE" "EIGHT"
 CODE SHEET :
 SyntacticFeatures:
 ONE = COSINE_SIMILARITY
